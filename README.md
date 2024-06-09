@@ -1,7 +1,6 @@
 # MovieMania
-# My Awesome Django Website
 
-Welcome to My Awesome Django Website! This website is built using the Django framework and offers a platform to watch and read about movies.
+Welcome to MovieMania! This website is built using the Django framework and offers a platform to watch and read about movies.
 
 ## Getting Started
 
