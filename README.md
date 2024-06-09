@@ -9,11 +9,11 @@ To get started with this Django project, follow these steps:
 
 1. Clone the repository to your local machine:
    
-   git clone https://github.com/yourusername/my-awesome-django-website.git
+   git clone https://github.com/Gayatrisheo/MovieMania.git
    
 2. Navigate into the project directory:
 
-cd my-awesome-django-website
+cd MovieMania/Hello
 
 3. Create a virtual environment (optional but recommended):
 
@@ -21,11 +21,9 @@ python3 -m venv venv
 
 4. Activate the virtual environment:
 
-On Windows:
-venv\Scripts\activate
+On Windows: venv\Scripts\activate
 
-On macOS and Linux:
-source venv/bin/activate
+On macOS and Linux: source venv/bin/activate
 
 5. Install the project dependencies:
 
